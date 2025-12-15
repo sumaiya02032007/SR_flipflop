@@ -34,6 +34,7 @@ Procedure
 PROGRAM
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
+
 Developed by: S.SUMAIYA RegisterNumber: 25016731
 
 RTL LOGIC FOR FLIPFLOPS
